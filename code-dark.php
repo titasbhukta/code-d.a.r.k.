@@ -6,7 +6,7 @@
  * @package           Code_DARK
  *
  * @wordpress-plugin
- * Plugin Name:       Code DARK
+ * Plugin Name:       Code D.A.R.K.
  * Plugin URI:        https://titasbhukta.com/plugin/code-dark
  * Description:       This is a plugin which enables you to add a dark mode to your site. It gives you a shortcode [Code_DARK] which can be used to add the mode toggle button to the site. The plugin handles the rest.
  * Version:           1.0.0
