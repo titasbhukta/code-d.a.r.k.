@@ -11,9 +11,10 @@
 .codeDARK .code-dark-icon {
   background-position: -50px 0;
 }
-.codeDARK,
-.codeDARK div,
-.codeDARK section {
+.codeDARK {
   background: #000 !important;
-  color: #f1f1f1 !important;
+  color: #fff !important;
+}
+.codeDARK img {
+  filter: brightness(.8) contrast(1.2);
 }
