@@ -16,5 +16,5 @@
   color: #fff !important;
 }
 .codeDARK img {
-  filter: brightness(.8) contras t(1.2);
+  filter: brightness(.8) contrast(1.2);
 }
